@@ -1,30 +1,3 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@soares-alan 
-soares-alan
-/
-xAlanxx
-Public
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-xAlanxx/README.md
-@soares-alan
-soares-alan Update README.md
-Latest commit aba6d86 yesterday
- History
- 1 contributor
-54 lines (38 sloc)  2.61 KB
-
 <h2 align="left">Doctoral degree in the health field and Front End Developer 👨‍⚕️❤️👨🏽‍💻</h2>
 
 ###
