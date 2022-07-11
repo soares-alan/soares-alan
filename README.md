@@ -1,9 +1,10 @@
-<h2 align="left">Doctoral degree in the health field and Front End Developer 👨‍⚕️❤️👨🏽‍💻</h2>
+<h2 align="left">About me</h2>
 
 ###
 
 <p align="left">
-As a doctor specialized in facial traumatology I am an accessibility advocate (CPACC certified)! I'm always working in new projects to help the community.
+Doctoral degree in the health field and Front End Developer 👨‍⚕️❤️👨‍💻
+  As a doctor specialized in facial traumatology I am an accessibility advocate (CPACC certified)! I'm always working in new projects to help the community.
 </p>
 
 ###
