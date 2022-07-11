@@ -41,12 +41,11 @@ Doctoral degree in the health field and Front End Developer 👨‍⚕️❤️�
 
 ###
 
-<img align="right" height="150" src="https://gist.github.com/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif"  />
+
 
 
 ###
 
-<br>
 <div align="center">
   <img src="https://profile-counter.glitch.me/soares-alan/count.svg?"  />
 </div>
