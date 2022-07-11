@@ -3,7 +3,7 @@
 ###
 
 <p align="left">
-Doctoral degree in the health field and Front End Developer 👨‍⚕️❤️👨‍💻
+Doctoral degree in the health field and Front End Developer 👨‍⚕️❤️👨‍💻 <br>
   As a doctor specialized in facial traumatology I am an accessibility advocate (CPACC certified)! I'm always working in new projects to help the community.
 </p>
 
@@ -53,17 +53,3 @@ Doctoral degree in the health field and Front End Developer 👨‍⚕️❤️�
 </div>
 
 ###
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
