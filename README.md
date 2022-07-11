@@ -3,7 +3,8 @@
 ###
 
 <p align="left">
-Doctoral degree in the health field and Front End Developer 👨‍⚕️❤️👨‍💻 <br>
+Doctoral degree in the health field and Front End Developer 👨‍⚕️❤️👨‍💻 <p>
+
   As a doctor specialized in facial traumatology I am an accessibility advocate (CPACC certified)! I'm always working in new projects to help the community.
 </p>
 
