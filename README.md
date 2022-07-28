@@ -43,8 +43,6 @@ Doctoral degree in the health field and Front End Developer 👨‍⚕️❤️�
 ###
 
 
-
-
 ###
 
 <div align="center">
