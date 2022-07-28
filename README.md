@@ -54,4 +54,4 @@ Doctoral degree in the health field and Front End Developer 👨‍⚕️❤️�
 ###
 <br clear="both">
 
-<img href="https://raw.githubusercontent.com/soares-alan/soares-alan/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/soares-alan/blob/output/github-contribution-grid-snake.svg)
