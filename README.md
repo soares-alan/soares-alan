@@ -1,61 +1,86 @@
-<h2 align="left">Hi, there!🖖</h2>
+<h1 align="center">
+  👋 Hello, I'm Alan!
+</h1>
 
-###
-
-<p align="left">
-Doctoral degree in the health field and Front End Developer 👨‍⚕️❤️👨‍💻 <p>
-
-  As a doctor specialized in facial traumatology I am an accessibility advocate (CPACC certified)! I'm always working in new projects to help the community.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00B3FF&center=true&vCenter=true&width=650&lines=From+Doctor+to+Developer;Precision+meets+Code;Building+Inclusive+Digital+Experiences;Let%E2%80%99s+Build+Together!+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
-###
+---
 
+## 🧠 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=soares-alan" height="150" alt="stats graph"  />
-  </br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&username=soares-alan" height="150" alt="languages graph"  />
-</div>
+🦷 With a **PhD in Dentistry** and experience as a **Facial Trauma Specialist**, I've always thrived in high-pressure, detail-focused environments.
 
+💻 My passion for **problem-solving** and **technology** led me into **web development**, where I now build **accessible**, **responsive**, and **user-centered** applications.
 
+📚 I’m a **CPACC-certified** accessibility advocate and **Computer Science student**, continuously evolving through freelance projects, personal initiatives, and open collaboration.
 
-###
+🤝 I bring a **fresh perspective** to development teams, blending healthcare precision with modern tech to create efficient, inclusive solutions.
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="42" alt="html5 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="42" alt="css3 logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" width="42" alt="bootstrap logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="42" alt="javascript logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" width="42" alt="vscode logo"  />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" height="45" width="45" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" width="42" />
-          
-          
-</div>
+---
 
-###
+## 🛠️ Tech Stack & Tools
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/soares-alan/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="35" alt="linkedin logo"  />
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <br/>
+
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bulma-00D1B2?style=for-the-badge&logo=bulma&logoColor=white" />
+  <br/>
+
+  <!-- Systems -->
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
+
+---
+
+## 🚀 Projects & Highlights
+
+- 💼 **Freelance Projects** – Real-world contributions focused on accessibility and responsive design.
+- 🧪 **Personal Experiments** – From design systems to accessible UI components.
+- 📈 **Continuous Learning** – Always exploring new tools and best practices in web development.
+
+> “Design is not just what it looks like and feels like. Design is how it works.” – Steve Jobs
+
+---
+
+## 📫 Contact Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/seu-perfil" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://mail.google.com/mail/u/0/?fs=1&to=milkboxdev@gmail.com&su=SUBJECT&body=&&tf=cm" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="35" alt="gmail logo"  />
+  <a href="mailto:alan.so4ares@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
+  <a href="https://github.com/soares-alan?tab=repositories" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=devdotto&logoColor=white" />
+  </a>
+</p>
 
-###
+---
 
+## 🎯 Fun Facts
 
-###
+- 🎯 I value **accessibility as a human right**, not a feature.
+- 🔍 Clean code and readable UI make me smile.
+- 🎨 Design systems give me structure and peace.
+- 👩‍⚕️ I still have a soft spot for medical tech and health-focused digital solutions.
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/soares-alan/count.svg?"  />
-</div>
+---
 
-###
-<br clear="both">
-
-## 
-![snake gif](https://github.com/soares-alan/soares-alan/blob/output/github-contribution-grid-snake.gif)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B3FF,100:0F2027&height=140&section=footer"/>
+</p>
