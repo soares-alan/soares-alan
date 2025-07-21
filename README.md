@@ -82,5 +82,5 @@
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B3FF,100:0F2027&height=140&section=footer"/>
+  <img src="https://github.com/soares-alan/soares-alan/blob/main/githubisgood.gif"/>
 </p>
