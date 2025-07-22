@@ -12,7 +12,7 @@
 
 🦷 With a **PhD in Dentistry** and experience as a **Facial Trauma Specialist**, I've always thrived in high-pressure, detail-focused environments.
 
-💻 My passion for **problem-solving** and **technology** led me into **web development**, where I now build **accessible**, **responsive**, and **user-centered** applications.
+💻 My passion for **problem-solving** and **technology** led me into **web development**, where I now build **accessible**, **responsive**, and **user-centred** applications.
 
 📚 I’m a **CPACC-certified** accessibility advocate and **Computer Science student**, continuously evolving through freelance projects, personal initiatives, and open collaboration.
 
